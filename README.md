@@ -1,0 +1,2 @@
+# RiscordBot
+A discord bot
